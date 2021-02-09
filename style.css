@@ -19,17 +19,70 @@ body, html {
 }
 
 .caption {
-  align-items: center;
-  display: flex;
-  justify-content: center;
+  font-size: 160%;
   position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  z-index: 1;
+  display: inline-block;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .caption img {
   width: 400px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/* Style all font awesome icons */
+.fa {
+  border-radius: 50%;
+  vertical-align: middle;
+  text-decoration: none;
+  text-align: center;
+
+  width: 60px;
+  height: 60px;
+  line-height: 60px !important;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Menu */
+.fa-cutlery {
+  background: #85343D;
+  color: white;
+}
+
+/* Facebook */
+.fa-facebook {
+  background: #D58E60;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #BEB694;
+  color: white;
+}
+
+/* Maps */
+.fa-map-marker {
+  background: #3C342B;
+  color: white;
+}
+
+/* Email */
+.fa-envelope {
+  background: #6DB2AA;
+  color: white;
 }
