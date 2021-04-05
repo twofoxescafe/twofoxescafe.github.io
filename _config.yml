@@ -1,0 +1,9 @@
+# Site settings
+title: "Two Foxes Cafe"
+email: "twofoxes@twofoxescafe.com"
+description: "We are a tiny, family-run delivery and dine-in cafe located in Danang, Vietnam, serving vegan and vegetarian breakfast/brunch, and delivering healthy, homemade, small-batch foods."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
