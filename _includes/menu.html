@@ -1,0 +1,29 @@
+<div id="restaurant-menu" class="bg-primary">
+    <div class="container">
+      <div class="section-title text-center">
+        <img src="/img/header-logo.png"></img>
+        <h2>our menu</h2>
+        <hr class="light">
+      </div>
+      <div class="row">
+        {% for s in site.data.menu.sections %}
+        {% assign section = s[1] %}
+        <div class="col-xs-12 col-sm-6">
+            <div class="menu-section">
+                <h2 class="menu-section-title">{{section.title}}</h2>
+                <hr class="light">
+                {% for i in section.items %}
+                {% assign item = i[1] %}
+                <div class="menu-item">
+                    <div class="menu-item-name">{{item.title}}</div>
+                    <div class="menu-item-price"> {{item.price}} </div>
+                    <div class="menu-item-description"> {{item.description}} </div>
+                </div>
+                {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,64 @@
+sections:
+  pancakes:
+    title: pancakes
+    items:
+      blueberry:
+        price: 110k
+        title: blueberry
+        description: whole wheat pancakes stuffed with blueberries and maple syrup on the side
+      pecan:
+        price: 130k
+        title: butter pecan
+        description: buttery whole wheat pancakes filled with pecans and smothered with butter, with maple syrup on the side
+      choose:
+        price: 60k
+        title: create your own
+        description: choose your flour (white or whole wheat), toppings (seasonal fresh fruit, homemade jam, honey), and extras like maple syrup (+40k), melted butter (+10k), peanut butter (+15k)
+  smoothies:
+    title: smoothies
+    items:
+      greenMachine:
+        price: 95k
+        title: green machine
+        description: kale picked from our own garden, juicy sweet pineapple, extra ripe bananas, greek yogurt, homemade cashew milk with dates, and a touch of homemade peanut butter
+      mangoBanana:
+        price: 85k
+        title: mango banana
+        description: extra ripde mango and banana, greek yogurt, homemade cashew milk with dates, fennel seed, cinnamon, and chia seeds
+      advocadoCreamDream:
+        price: 105k
+        title: avocado cream dream
+        description: creamy avocado, extra ripe banana, kale picked from our own garden, greek yogurt, homemade cashew milk with dates
+      choconana:
+        price: 90k
+        title: choconana
+        description: double extra ripe banana, cacao, greek yogurt, chomemade cashew milk with dates, and homemade peanut butter
+      pineappleCoconut:
+        price: 90k
+        title: pineapple coconut
+        description: juicy sweet pineapple, a freshly-cracked coconut with the meat and water, an extra ripe banana
+  kombucha:
+    title: kombucha
+    items:
+      various:
+        price: 60k
+        title: rotating flavors
+        description: We brew our kombucha by hand, in small, separate batches. Then we flavor it with any number of all-natural, fresh ingredients. We are always experimenting so our flavors are always changing!
+  cashewMilk:
+    title: cashew milk
+    items:
+      various:
+        price: 40k
+        title: rotating flavors
+        description: Our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies. Ask us for the flavors of the day :)
+  bowls:
+    title: bowls
+    items:
+      twoFoxesSpecial:
+        price: 85k
+        title: two foxes special
+        description: greek yogurt mixed with our homemade dragonfruit chia jam, topped with freshly frozen seasonal fruit, nuts, and maple syrup
+      granolaBowl:
+        price: 95k
+        title: granola bowl
+        description: homemade toasted granola, topped with fresh seasonal fruit, with homemade cashew milk for pouring
