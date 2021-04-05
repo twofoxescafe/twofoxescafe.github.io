@@ -1,0 +1,132 @@
+header:
+  description:
+    en: We are a tiny, family-run delivery and dine-in cafe located in <a target="_blank" href="https://goo.gl/maps/SCmbAvNy2YUjJ1EN6">Danang, Vietnam</a>, serving vegan and vegetarian breakfast/brunch, and delivering healthy, homemade, small-batch foods.
+    vi: Something else
+  button:
+    en: Find Out More
+    vi: Something else
+
+about:
+  title:
+    en: Our Story
+    vi: Something else
+  description:
+    en:
+      Hello friend! Thanks for stopping by our website. Keep reading for a bit of our backstory and inspiration for starting this cafe :)<br><br>
+      After hiking for a couple days on Cat Ba Island in the North of Vietnam, we stopped by a cafe for pancakes. We ordered the mango pancakes. By the look of the pictures in the menu, these little cakes of joy were going to be fluffy, soft, warm, and oh so tasty. We were practically drooling. After what seemed like a lifetime of waiting, our friendly server brought us what appeared to be a funnel cake dipped in oil an extra few times. Our "pancakes" looked nothing like the picture in the menu. Our hearts sank. After the first few crunchy, oily, unappetizing bites, I put my fork down, unable to continue. That disappointment is what spurred the creation of our tiny little cafe here in Danang. However, pancakes aren't our only forte.<br><br>
+      Our passion for eating healthy, delicious food at home shows in our menu, which includes homemade, small-batch kombucha, cashew milk, crispy granola bowls, and smoothies that are so nutritious, they can replace your entire meal. Our tiny little cafe is but a single table nestled in a shady garden by the front of our home. Stop by or message us about delivery anytime.
+    vi:
+      Something else
+  button:
+    en: See Our Menu
+    vi: Something else
+
+contact:
+  title:
+    en: Let's Get In Touch!
+    vi: Something else
+  description:
+    en: Send us a message anytime about delivering an order, checking our hours, or if you just want to chat about healthy food :)
+    vi: Something else
+
+aside:
+  title:
+    en: Want More?
+    vi: Something else
+  button:
+    en: See Our Full Menu
+    vi: Something else
+
+
+services:
+  title:
+    en: At Your Service
+    vi: Something else
+  items:
+    delivery:
+      icon: fa-truck
+      title:
+        en: Delivery
+        vi: Something else
+      description:
+        en: Message us an order and we will make it fresh for you. Ask us about free delivery in Danang with certain orders :)
+        vi: Something else
+    dineIn:
+      icon: fa-chair
+      title:
+        en: Dine In
+        vi: Something else
+      description:
+        en: Our tiny cafe, with only a single table, is located in our shady garden outside our home. Stop by sometime, but make sure to message us first 👋
+        vi: Something else
+    madeToOrder:
+      icon: fa-concierge-bell
+      title:
+        en: Made To Order
+        vi: Something else
+      description:
+        en: Fresh food is healthy food. So it's only natural that we make every order right when you ask for it!
+        vi: Something else
+    madeWithLove:
+      icon: fa-heart
+      title:
+        en: Made with Love
+        vi: Something else
+      description:
+        en: You have to make all your food with love these days!
+        vi: Something else
+    
+
+menu:
+  title:
+    en: Our Menu
+    vi: Something else
+  items:
+    kombucha:
+      image: img/showcase/1.jpeg
+      title:
+        en: Small-Batch Kombucha
+        vi: Something else
+      description:
+        en: We brew our kombucha by hand, in small, separate batches. Then we flavor it with any number of all-natural, fresh ingredients. We are always experimenting so our flavors are always changing!
+        vi: Something else
+    smoothies:
+      image: img/showcase/2.jpeg
+      title:
+        en: Healthy Smoothies
+        vi: Something else
+      description:
+        en: Each of our smoothies contains enough nutrition to replace your entire meal! We use ingredients from our garden or from the local market. Check our menu for flavors :)
+        vi: Something else
+    pancakes:
+      image: img/showcase/3.jpeg
+      title:
+        en: American Pancakes
+        vi: Something else
+      description:
+        en: Our pancakes are American style, light, thick and fluffy, served with fresh fruit, nuts, and maple syrup.
+        vi: Something else
+    cashewMilk:
+      image: img/showcase/4.jpeg
+      title:
+        en: Cashew Milk
+        vi: Something else
+      description:
+        en: Our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies.
+        vi: Something else
+    granolaBowls:
+      image: img/showcase/5.jpeg
+      title:
+        en: Granola Bowls
+        vi: Something else
+      description:
+        en: Our freshly-made granola, topped with fruits and served with cold cashew milk is a healthier version of those sugary cereals you remember as a kid :)
+        vi: Something else
+    various:
+      image: img/showcase/6.jpeg
+      title:
+        en: Various
+        vi: Something else
+      description:
+        en: Ask us about our homemade, sugar-free, chia seed fruit jams and peanut butter!
+        vi: Something else

@@ -1,96 +1,24 @@
 <section class="no-padding" id="showcase">
     <div class="container-fluid">
         <div class="row no-gutter">
+            {% for i in site.data.translations.menu.items %}
+            {% assign item = i[1] %}
             <div class="col-lg-4 col-sm-6">
                 <a class="portfolio-box">
-                    <img src="img/showcase/1.jpeg" class="img-responsive" alt="">
+                    <img src="{{item.image}}" class="img-responsive" alt="{{item.title[page.lang]}}">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category">
-                                Small-Batch Kombucha
+                                {{item.title[page.lang]}}
                             </div>
                             <div class="project-name">
-                                We brew our kombucha by hand, in small, separate batches. Then we flavor it with any number of all-natural, fresh ingredients. We are always experimenting so our flavors are always changing!
+                                {{item.description[page.lang]}}
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box">
-                    <img src="img/showcase/2.jpeg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Healthy Smoothies
-                            </div>
-                            <div class="project-name">
-                                Each of our smoothies contains enough nutrition to replace your entire meal! We use ingredients from our garden or from the local market. Check our menu for flavors :)
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box">
-                    <img src="img/showcase/3.jpeg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                American Pancakes
-                            </div>
-                            <div class="project-name">
-                                Our pancakes are American style, light, thick and fluffy, served with fresh fruit, nuts, and maple syrup.
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box">
-                    <img src="img/showcase/4.jpeg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Cashew Milk
-                            </div>
-                            <div class="project-name">
-                                Our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies.
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box">
-                    <img src="img/showcase/5.jpeg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Granola Bowls
-                            </div>
-                            <div class="project-name">
-                                Our freshly-made granola, topped with fruits and served with cold cashew milk is a healthier version of those sugary cereals you remember as a kid :)
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box">
-                    <img src="img/showcase/6.jpeg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Various
-                            </div>
-                            <div class="project-name">
-                                Ask us about our homemade, sugar-free, chia seed fruit jams and peanut butter!
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
+            {% endfor %}
         </div>
     </div>
 </section>
