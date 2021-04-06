@@ -17,7 +17,7 @@ about:
     en:
       Two Foxes began as a way for our family to help others eat healthier and live happier lives. We start with the highest quality fruits and veggies sourced straight from our garden or at the closest, local market. We combine these with our small-batch, entirely homemade, kombucha, smoothies, cashew milk, granola, pancakes, fruit jams and other tasty, healthy, and natural treats. Our tiny little cafe is but a single table nestled in a shady garden by the front of our home. Stop by or message us about delivery anytime.
     vi:
-      Two Foxes bắt đầu là gia đình nhỏ của bọn mình muốn chia sẻ và giúp đỡ mọi người ăn uống lành mạnh và tốt cho sức khỏe hơn .Sống khỏe là một trong những tiêu chuẩn của sống hạnh phúc. Bọn mình bắt đầu với những loại trái cây và rau củ tươi chất lượng nhất bọn mình chọn lựa từ mảnh vườn nhỏ tại nhà, siêu thị và chợ địa phương. Bọn mình kết hợp các nguyên liệu đó để tạo ra đồ ăn, đồ uống lên men thủ công tại nhà như kombucha, sinh tố dinh dưỡng, sữa hạt điều, ngũ cốc hạt nướng, bánh kếp, mứt trái cây và còn nhiều món ăn nhẹ ngon, tốt cho sức khỏe và tự nhiên. Quán của bọn mình có thể gọi là nhỏ nhất ở Đà Nẵng  :D khi bọn mình chỉ có độc một bộ bàn ghế đặt giữa sân, dưới tán cây lá vối với xung quanh là những chậu cây nho nhỏ quanh vườn ngay trước nhà. Ghé chơi với bọn mình hay gửi tin nhắn cho bọn mình để giao hàng bất kể khi nào bạn cần.
+      Two Foxes bắt đầu là gia đình nhỏ của bọn mình muốn chia sẻ và giúp đỡ mọi người ăn uống lành mạnh và tốt cho sức khỏe hơn.Sống khỏe là một trong những tiêu chuẩn của sống hạnh phúc. Bọn mình bắt đầu với những loại trái cây và rau củ tươi chất lượng nhất bọn mình chọn lựa từ mảnh vườn nhỏ tại nhà, siêu thị và chợ địa phương. Bọn mình kết hợp các nguyên liệu đó để tạo ra đồ ăn, đồ uống lên men thủ công tại nhà như kombucha, sinh tố dinh dưỡng, sữa hạt điều, ngũ cốc hạt nướng, bánh kếp, mứt trái cây và còn nhiều món ăn nhẹ ngon, tốt cho sức khỏe và tự nhiên. Quán của bọn mình có thể gọi là nhỏ nhất ở Đà Nẵng  :D khi bọn mình chỉ có độc một bộ bàn ghế đặt giữa sân, dưới tán cây lá vối với xung quanh là những chậu cây nho nhỏ quanh vườn ngay trước nhà. Ghé chơi với bọn mình hay gửi tin nhắn cho bọn mình để giao hàng bất kể khi nào bạn cần.
   button:
     en: See Our Menu
     vi: Xem Thực Đơn
@@ -48,13 +48,13 @@ services:
     vi: Dịch Vụ
   title:
     en: What We Offer
-    vi: Bọn mình có gì cho bạn
+    vi: Bọn Mình Có Gì Cho Bạn
   items:
     delivery:
       icon: fa-truck
       title:
         en: Delivery
-        vi: Nhận giao hàng
+        vi: Nhận Giao Hàng
       description:
         en: Message us an order and we will make it fresh for you. Ask us about free delivery in Danang with certain orders :)
         vi: Nhắn tin đặt hàng, bọn mình sẽ làm ngay khi nhận được đơn để đảm bảo đồ ăn luôn tươi mới khi giao cho mọi người. Nhận giao hàng miễn phí khu vực Đà Nẵng :)
@@ -62,7 +62,7 @@ services:
       icon: fa-chair
       title:
         en: Dine In
-        vi: Dùng bữa tại quán
+        vi: Dùng Bữa Tại Quán
       description:
         en: Our tiny cafe, with only a single table, is located in our shady garden outside our home. Stop by sometime, but make sure to message us first 👋
         vi: Quán của bọn mình rất khiêm tốn chỉ có một bộ bàn ghế đặt trong sân vườn nhỏ nhỏ. Trước khi ghé qua tụi mình bạn hãy nhắn tin cho bọn mình trước nhé 👋
@@ -70,7 +70,7 @@ services:
       icon: fa-concierge-bell
       title:
         en: Made To Order
-        vi: Đặt hàng
+        vi: Đặt Hàng
       description:
         en: Fresh food is healthy food. So it's only natural that we make every order right when you ask for it!
         vi: Đồ ăn tươi mới là đồ ăn tốt cho sức khỏe. Bọn mình luôn tâm niệm như vậy cho nên bọn mình sẽ làm (ngũ cốc, sữa) ngay khi bạn đặt hàng.
@@ -78,7 +78,7 @@ services:
       icon: fa-heart
       title:
         en: Made with Love
-        vi: Từ trái tim tới trái tim
+        vi: Từ Trái Tim Tới Trái Tim
       description:
         en: You have to make all your food with love these days!
         vi: Đồ ăn làm từ tâm sẽ tới được tâm khách hàng - bọn mình tin vào điều này.
@@ -96,7 +96,7 @@ menu:
       image: /img/showcase/1.jpeg
       title:
         en: Small-Batch Kombucha
-        vi: Mẻ Kombucha nhỏ thủ công
+        vi: Mẻ Kombucha Nhỏ Thủ Công
       description:
         en: Each batch of our kombucha we make is crafted by hand, in small, separate batches. We start with the highest-quality, organic tea ingredients, and then we flavor it with any number of all-natural, fresh fruits and herbs. We are always experimenting so our flavors are always changing!
         vi: Bọn mình làm Kombucha mỗi đợt đều hoàn toàn thủ công, mình mình chỉ làm với số lượng ít và thường tiêu thụ cũng rất nhanh. Thành phần trong Kombucha đều là được chọn lọc kỹ càng từ nguyên liệu tốt nhất và quá trình làm luôn khử khuẩn an toàn. Để làm được Kombucha vừa dễ lại vừa khó, quy trình yêu cầu mọi thứ phải thật sạch. Kombucha của bọn mình có rất nhiều hương vị để bạn lựa chọn, bọn mình luôn muốn thử nghiệm trong việc tạo hương vị của Kombucha cũng như thuận theo tự nhiên "mùa nào thức ấy".
@@ -112,7 +112,7 @@ menu:
       image: /img/showcase/3.jpeg
       title:
         en: American Pancakes
-        vi: Bánh kếp kiểu Mỹ
+        vi: Bánh Kếp Kiểu Mỹ
       description:
         en: After a rather unhealthy and disappointing attempt to find authentic American pancakes in Vietnam, we decided to just make our own! Our American style pancakes are crafted from scratch, light, thick and fluffy, served with fresh fruit, nuts, and maple syrup.
         vi: Sau một thời gian dài nỗ lực trong vô vọng để tìm kiếm một nơi bán bánh kếp chuẩn Mỹ ở Việt Nam, bọn mình đã đi tới quyết định tự làm và phục vụ cho mọi người. Bánh kếp của bọn mình gồm phiên bản, mỏng, dày, mềm xốp ăn kèm trái cây tươi cùng các loại hạt và mật lá phong.
@@ -144,7 +144,7 @@ menu:
       image: /img/showcase/6.jpeg
       title:
         en: Various
-        vi: Các món khác
+        vi: Các Món Khác
       description:
         en: Ask us about our homemade, small-batch, sugar-free, chia seed fruit jams, and peanut butter!
         vi: Ngoài ra bọn mình còn có các sản phẩm nhà làm khác như, bơ đậu phộng, mứt trái cây hạt chia nữa đó!
