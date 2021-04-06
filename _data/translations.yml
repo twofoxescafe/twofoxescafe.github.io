@@ -1,132 +1,150 @@
 header:
   description:
     en: We are a tiny, family-run delivery and dine-in cafe located in <a target="_blank" href="https://goo.gl/maps/SCmbAvNy2YUjJ1EN6">Danang, Vietnam</a>, serving vegan and vegetarian breakfast/brunch, and delivering healthy, homemade, small-batch foods.
-    vi: Something else
+    vi: Bọn mình là một mô hình quán nhỏ, mở tại nhà ở <a target="_blank" href="https://goo.gl/maps/SCmbAvNy2YUjJ1EN6">Đà Nẵng, Việt Nam</a>, phục vụ đồ ăn chay, thuần chay, tốt cho sức khỏe nhà làm cho bữa sáng và bữa xế, bọn mình có nhận ship.
   button:
     en: Find Out More
-    vi: Something else
+    vi: Tìm Hiểu Thêm
 
 about:
+  navTitle:
+    en: About
+    vi: Về Two Foxes
   title:
     en: Our Story
-    vi: Something else
+    vi: Câu Chuyện của Bọn Mình
   description:
     en:
-      Hello friend! Thanks for stopping by our website. Keep reading for a bit of our backstory and inspiration for starting this cafe :)<br><br>
-      After hiking for a couple days on Cat Ba Island in the North of Vietnam, we stopped by a cafe for pancakes. We ordered the mango pancakes. By the look of the pictures in the menu, these little cakes of joy were going to be fluffy, soft, warm, and oh so tasty. We were practically drooling. After what seemed like a lifetime of waiting, our friendly server brought us what appeared to be a funnel cake dipped in oil an extra few times. Our "pancakes" looked nothing like the picture in the menu. Our hearts sank. After the first few crunchy, oily, unappetizing bites, I put my fork down, unable to continue. That disappointment is what spurred the creation of our tiny little cafe here in Danang. However, pancakes aren't our only forte.<br><br>
-      Our passion for eating healthy, delicious food at home shows in our menu, which includes homemade, small-batch kombucha, cashew milk, crispy granola bowls, and smoothies that are so nutritious, they can replace your entire meal. Our tiny little cafe is but a single table nestled in a shady garden by the front of our home. Stop by or message us about delivery anytime.
+      Two Foxes began as a way for our family to help others eat healthier and live happier lives. We start with the highest quality fruits and veggies sourced straight from our garden or at the closest, local market. We combine these with our small-batch, entirely homemade, kombucha, smoothies, cashew milk, granola, pancakes, fruit jams and other tasty, healthy, and natural treats. Our tiny little cafe is but a single table nestled in a shady garden by the front of our home. Stop by or message us about delivery anytime.
     vi:
-      Something else
+      Two Foxes bắt đầu là gia đình nhỏ của bọn mình muốn chia sẻ và giúp đỡ mọi người ăn uống lành mạnh và tốt cho sức khỏe hơn .Sống khỏe là một trong những tiêu chuẩn của sống hạnh phúc. Bọn mình bắt đầu với những loại trái cây và rau củ tươi chất lượng nhất bọn mình chọn lựa từ mảnh vườn nhỏ tại nhà, siêu thị và chợ địa phương. Bọn mình kết hợp các nguyên liệu đó để tạo ra đồ ăn, đồ uống lên men thủ công tại nhà như kombucha, sinh tố dinh dưỡng, sữa hạt điều, ngũ cốc hạt nướng, bánh kếp, mứt trái cây và còn nhiều món ăn nhẹ ngon, tốt cho sức khỏe và tự nhiên. Quán của bọn mình có thể gọi là nhỏ nhất ở Đà Nẵng  :D khi bọn mình chỉ có độc một bộ bàn ghế đặt giữa sân, dưới tán cây lá vối với xung quanh là những chậu cây nho nhỏ quanh vườn ngay trước nhà. Ghé chơi với bọn mình hay gửi tin nhắn cho bọn mình để giao hàng bất kể khi nào bạn cần.
   button:
     en: See Our Menu
-    vi: Something else
+    vi: Xem Thực Đơn
 
 contact:
+  navTitle:
+    en: Contact Us
+    vi: Liên Hệ
   title:
     en: Let's Get In Touch!
-    vi: Something else
+    vi: Nhớ giữ liên lạc với bọn mình nhé!
   description:
     en: Send us a message anytime about delivering an order, checking our hours, or if you just want to chat about healthy food :)
-    vi: Something else
+    vi: Gửi tin nhắn cho bọn mình bất kể lúc nào để đặt hàng hay giao hàng, để kiểm tra giờ nào bọn mình mở cửa hay để thảo luận về thực phẩm tốt cho sức khỏe. Bọn mình sẵn sàng chia sẻ những gì bọn mình biết với các bạn. 
 
 aside:
   title:
     en: Want More?
-    vi: Something else
+    vi: Cần thêm?
   button:
     en: See Our Full Menu
-    vi: Something else
+    vi: Xem toàn bộ thực đơn
 
 
 services:
+  navTitle:
+    en: Services
+    vi: Dịch Vụ
   title:
-    en: At Your Service
-    vi: Something else
+    en: What We Offer
+    vi: Bọn mình có gì cho bạn
   items:
     delivery:
       icon: fa-truck
       title:
         en: Delivery
-        vi: Something else
+        vi: Nhận giao hàng
       description:
         en: Message us an order and we will make it fresh for you. Ask us about free delivery in Danang with certain orders :)
-        vi: Something else
+        vi: Nhắn tin đặt hàng, bọn mình sẽ làm ngay khi nhận được đơn để đảm bảo đồ ăn luôn tươi mới khi giao cho mọi người. Nhận giao hàng miễn phí khu vực Đà Nẵng :)
     dineIn:
       icon: fa-chair
       title:
         en: Dine In
-        vi: Something else
+        vi: Dùng bữa tại quán
       description:
         en: Our tiny cafe, with only a single table, is located in our shady garden outside our home. Stop by sometime, but make sure to message us first 👋
-        vi: Something else
+        vi: Quán của bọn mình rất khiêm tốn chỉ có một bộ bàn ghế đặt trong sân vườn nhỏ nhỏ. Trước khi ghé qua tụi mình bạn hãy nhắn tin cho bọn mình trước nhé 👋
     madeToOrder:
       icon: fa-concierge-bell
       title:
         en: Made To Order
-        vi: Something else
+        vi: Đặt hàng
       description:
         en: Fresh food is healthy food. So it's only natural that we make every order right when you ask for it!
-        vi: Something else
+        vi: Đồ ăn tươi mới là đồ ăn tốt cho sức khỏe. Bọn mình luôn tâm niệm như vậy cho nên bọn mình sẽ làm (ngũ cốc, sữa) ngay khi bạn đặt hàng.
     madeWithLove:
       icon: fa-heart
       title:
         en: Made with Love
-        vi: Something else
+        vi: Từ trái tim tới trái tim
       description:
         en: You have to make all your food with love these days!
-        vi: Something else
+        vi: Đồ ăn làm từ tâm sẽ tới được tâm khách hàng - bọn mình tin vào điều này.
     
 
 menu:
+  navTitle:
+    en: Menu
+    vi: Thực Đơn
   title:
     en: Our Menu
-    vi: Something else
+    vi: Thực Đơn
   items:
     kombucha:
       image: /img/showcase/1.jpeg
       title:
         en: Small-Batch Kombucha
-        vi: Something else
+        vi: Mẻ Kombucha nhỏ thủ công
       description:
-        en: We brew our kombucha by hand, in small, separate batches. Then we flavor it with any number of all-natural, fresh ingredients. We are always experimenting so our flavors are always changing!
-        vi: Something else
+        en: Each batch of our kombucha we make is crafted by hand, in small, separate batches. We start with the highest-quality, organic tea ingredients, and then we flavor it with any number of all-natural, fresh fruits and herbs. We are always experimenting so our flavors are always changing!
+        vi: Bọn mình làm Kombucha mỗi đợt đều hoàn toàn thủ công, mình mình chỉ làm với số lượng ít và thường tiêu thụ cũng rất nhanh. Thành phần trong Kombucha đều là được chọn lọc kỹ càng từ nguyên liệu tốt nhất và quá trình làm luôn khử khuẩn an toàn. Để làm được Kombucha vừa dễ lại vừa khó, quy trình yêu cầu mọi thứ phải thật sạch. Kombucha của bọn mình có rất nhiều hương vị để bạn lựa chọn, bọn mình luôn muốn thử nghiệm trong việc tạo hương vị của Kombucha cũng như thuận theo tự nhiên "mùa nào thức ấy".
     smoothies:
       image: /img/showcase/2.jpeg
       title:
         en: Healthy Smoothies
-        vi: Something else
+        vi: Sinh Tố Bổ Dưỡng
       description:
-        en: Each of our smoothies contains enough nutrition to replace your entire meal! We use ingredients from our garden or from the local market. Check our menu for flavors :)
-        vi: Something else
+        en: Each of our nutrient-packed smoothies is an entire meal! We skip the condensed milk, sugar, and ice, and instead use fresh fruits, veggies, and our homemade cashew milk. We use ingredients straight from our garden or from the local market. Check our menu for flavors :)
+        vi: Bạn biết không một ly sinh tố bổ dưỡng của bọn mình có thể thay thế cho một bữa ăn đó. Bọn mình không dùng sữa đặc, đường, đá thay vào đó bọn mình dùng hoàn toàn trái cây, rau, và sữa hạt điều bọn mình tự làm và thêm vào vài thành phần giúp ly sinh tố thơm ngon và bổ dưỡng hơn. Bọn mình dùng trực tiếp rau từ vườn bọn mình trồng được hoặc các sản phẩm rau hữu cơ khác thay thế. Hãy xem thêm ở thực đơn của bọn mình nhé.
     pancakes:
       image: /img/showcase/3.jpeg
       title:
         en: American Pancakes
-        vi: Something else
+        vi: Bánh kếp kiểu Mỹ
       description:
-        en: Our pancakes are American style, light, thick and fluffy, served with fresh fruit, nuts, and maple syrup.
-        vi: Something else
+        en: After a rather unhealthy and disappointing attempt to find authentic American pancakes in Vietnam, we decided to just make our own! Our American style pancakes are crafted from scratch, light, thick and fluffy, served with fresh fruit, nuts, and maple syrup.
+        vi: Sau một thời gian dài nỗ lực trong vô vọng để tìm kiếm một nơi bán bánh kếp chuẩn Mỹ ở Việt Nam, bọn mình đã đi tới quyết định tự làm và phục vụ cho mọi người. Bánh kếp của bọn mình gồm phiên bản, mỏng, dày, mềm xốp ăn kèm trái cây tươi cùng các loại hạt và mật lá phong.
+    granola:
+      image: /img/showcase/7.jpeg
+      title:
+        en: Small-Batch Granola
+        vi: Granola
+      description:
+        en: Each batch of our crispy, crunchy, clustery granola we make is crafted by hand with the finest ingredients. We never use refined sugar or preservatives, and make every batch right when you ask for it.
+        vi: Mỗi mẻ Granola giòn rụm đều được bọn mình làm thủ công từ những nguyên liệu tốt nhất bọn mình tuyển chọn được. Bọn mình không bao giờ sử dụng đường tinh luyện, chất bảo quản trong khi làm. Granola luôn được làm sau khi bạn đặt hàng.
     cashewMilk:
       image: /img/showcase/4.jpeg
       title:
         en: Cashew Milk
-        vi: Something else
+        vi: Sữa Hạt Điều
       description:
         en: Our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies.
-        vi: Something else
+        vi: Sữa hạt luôn được bọn mình làm mới mỗi ngày với độ ngọt tự nhiên từ quả chà là và được tạo thêm vị từ trái cây tươi và rau củ tùy chọn.
     granolaBowls:
       image: /img/showcase/5.jpeg
       title:
         en: Granola Bowls
-        vi: Something else
+        vi: Granola Tô
       description:
         en: Our freshly-made granola, topped with fruits and served with cold cashew milk is a healthier version of those sugary cereals you remember as a kid :)
-        vi: Something else
+        vi: Granola mới ra lò, phủ lên với trái cây tươi dùng kèm với sữa hạt điều lạnh là một phiên bản tốt hơn cho sức khỏe của ngũ cốc ăn sẵn siêu ngọt bán trong siêu thị đó các bạn ơi.
     various:
       image: /img/showcase/6.jpeg
       title:
         en: Various
-        vi: Something else
+        vi: Các món khác
       description:
-        en: Ask us about our homemade, sugar-free, chia seed fruit jams and peanut butter!
-        vi: Something else
+        en: Ask us about our homemade, small-batch, sugar-free, chia seed fruit jams, and peanut butter!
+        vi: Ngoài ra bọn mình còn có các sản phẩm nhà làm khác như, bơ đậu phộng, mứt trái cây hạt chia nữa đó!
