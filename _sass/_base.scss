@@ -158,10 +158,10 @@ aside {
 header {
     position: relative;
     width: 100%;
-    min-height: 100vh;
+    min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: linear-gradient(rgba(#D58E60, 0.5),rgba(#D58E60, 0.5)), url('/img/header.jpeg');
+    background-image: linear-gradient(#D58E60AA, #D58E60AA), url('/img/header.jpeg');
     text-align: center;
     color: white;
     .header-content {
