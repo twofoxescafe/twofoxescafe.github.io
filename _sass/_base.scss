@@ -161,8 +161,7 @@ header {
     min-height: 100vh;
     @include background-cover;
     background-position: center;
-    background-attachment: fixed;
-    background-image: linear-gradient(rgba(#D58E60, 0.5),rgba(#D58E60, 0.5)), url('../img/header.jpeg');
+    background-image: linear-gradient(rgba(#D58E60, 0.5),rgba(#D58E60, 0.5)), url('/img/header.jpeg');
     text-align: center;
     color: white;
     .header-content {
