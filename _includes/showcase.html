@@ -1,24 +1,14 @@
 <section class="no-padding" id="showcase">
-    <div class="container-fluid">
-        <div class="row no-gutter">
-            {% for i in site.data.translations.menu.items %}
-            {% assign item = i[1] %}
-            <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box">
-                    <img src="{{item.image}}" class="img-responsive" alt="{{item.title[page.lang]}}">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category">
-                                {{item.title[page.lang]}}
-                            </div>
-                            <div class="project-name">
-                                {{item.description[page.lang]}}
-                            </div>
-                        </div>
-                    </div>
-                </a>
+    {% for i in site.data.translations.menu.items %}
+    {% assign item = i[1] %}
+    <div class="showcase-box" style="background-image: linear-gradient(#D58E6088,#D58E6088), url('{{item.image}}');">
+        <div class="showcase-box-content">
+            <div class="showcase-box-content-inner">
+                <h1>{{item.title[page.lang]}}</h1>
+                <hr>
+                <h3>{{item.description[page.lang]}}</h3>
             </div>
-            {% endfor %}
         </div>
     </div>
+    {% endfor %}
 </section>

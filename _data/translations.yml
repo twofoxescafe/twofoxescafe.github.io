@@ -83,7 +83,7 @@ menu:
     vi: Something else
   items:
     kombucha:
-      image: img/showcase/1.jpeg
+      image: /img/showcase/1.jpeg
       title:
         en: Small-Batch Kombucha
         vi: Something else
@@ -91,7 +91,7 @@ menu:
         en: We brew our kombucha by hand, in small, separate batches. Then we flavor it with any number of all-natural, fresh ingredients. We are always experimenting so our flavors are always changing!
         vi: Something else
     smoothies:
-      image: img/showcase/2.jpeg
+      image: /img/showcase/2.jpeg
       title:
         en: Healthy Smoothies
         vi: Something else
@@ -99,7 +99,7 @@ menu:
         en: Each of our smoothies contains enough nutrition to replace your entire meal! We use ingredients from our garden or from the local market. Check our menu for flavors :)
         vi: Something else
     pancakes:
-      image: img/showcase/3.jpeg
+      image: /img/showcase/3.jpeg
       title:
         en: American Pancakes
         vi: Something else
@@ -107,7 +107,7 @@ menu:
         en: Our pancakes are American style, light, thick and fluffy, served with fresh fruit, nuts, and maple syrup.
         vi: Something else
     cashewMilk:
-      image: img/showcase/4.jpeg
+      image: /img/showcase/4.jpeg
       title:
         en: Cashew Milk
         vi: Something else
@@ -115,7 +115,7 @@ menu:
         en: Our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies.
         vi: Something else
     granolaBowls:
-      image: img/showcase/5.jpeg
+      image: /img/showcase/5.jpeg
       title:
         en: Granola Bowls
         vi: Something else
@@ -123,7 +123,7 @@ menu:
         en: Our freshly-made granola, topped with fruits and served with cold cashew milk is a healthier version of those sugary cereals you remember as a kid :)
         vi: Something else
     various:
-      image: img/showcase/6.jpeg
+      image: /img/showcase/6.jpeg
       title:
         en: Various
         vi: Something else
