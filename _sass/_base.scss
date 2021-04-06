@@ -5,7 +5,7 @@ body {
 }
 
 body {
-    @include futura-font;
+    @include railway-font;
 }
 
 hr {
@@ -33,12 +33,12 @@ h3,
 h4,
 h5,
 h6 {
-    @include futura-font;
+    @include railway-font;
 }
 
 p {
     font-size: 16px;
-    @include futura-font;
+    @include railway-font;
     line-height: 1.5;
     margin-bottom: 20px;
 }
@@ -96,7 +96,7 @@ aside {
             > a:focus {
                 font-weight: 500;
                 font-size: 18px;
-                @include futura-font;
+                @include railway-font;
                 color: $theme-dark;
                 &:hover {
                     color: $theme-primary;
@@ -260,9 +260,8 @@ header {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
-                color: rgba(white, .7);
-                font-size: 16px;
+                font-weight: 500;
+                font-size: 22px;
                 margin-bottom: 50px;
             }
         }
@@ -281,7 +280,7 @@ header {
                 margin-left: auto;
                 margin-right: auto;
                 p {
-                    font-size: 18px;
+                    font-size: 24px;
                     max-width: 80%;
                     margin-left: auto;
                     margin-right: auto;
