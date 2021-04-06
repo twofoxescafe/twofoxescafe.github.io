@@ -1,11 +1,11 @@
 <section class="no-padding" id="showcase">
     {% for i in site.data.translations.menu.items %}
     {% assign item = i[1] %}
-    <div class="showcase-box" style="background-image: linear-gradient(#D58E6088,#D58E6088), url('{{item.image}}');">
-        <div class="showcase-box-content">
+    <div class="showcase-box" style="background-image: linear-gradient(#D58E60AA,#D58E60AA), url('{{item.image}}');">
+        <div class="showcase-box-content wow fadeIn" data-wow-delay=".5s">
             <div class="showcase-box-content-inner">
                 <h1>{{item.title[page.lang]}}</h1>
-                <hr>
+                <hr class="light">
                 <p>{{item.description[page.lang]}}</p>
             </div>
         </div>
