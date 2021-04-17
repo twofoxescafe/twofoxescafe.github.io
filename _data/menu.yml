@@ -80,7 +80,7 @@ sections:
   kombucha:
     title:
       en: kombucha
-      vi: Trà lên men Komnbucha
+      vi: trà lên men kombucha
     items:
       various:
         price: 60k
