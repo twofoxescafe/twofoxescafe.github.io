@@ -104,7 +104,9 @@ sections:
           en: our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies. Ask us for the flavors of the day :)
           vi: sữa điều nhà làm của bọn mình luôn tươi mới, sữa được tạo ngọt từ quả chà là. Sữa được tạo thêm hương vị từ rau củ quả tươi. Nhắn tin cho bọn mình để biết hương vị của ngày hôm nay 
   bowls:
-    title: bowls
+    title:
+      en: bowls
+      vi: bát
     items:
       twoFoxesSpecial:
         price: 85k
@@ -131,7 +133,7 @@ sections:
         price: 150k-170k / lit
         title:
           en: kombucha (various)
-          vi: trà lên men (nhiều loại)
+          vi: trà lên men
         description:
           en: each batch of our kombucha we make is crafted by hand, in small, separate batches. We start with the highest-quality, organic tea ingredients, and then we flavor it with any number of all-natural, fresh fruits and herbs. Ask us for the flavors of the day :)
           vi: mỗi mẻ trà lên men của bọn mình đều được làm thủ công, công đoạn nhỏ không làm số lượng nhiều. Mỗi mẻ đều được làm riêng biệt. Nguyên liệu được chọn lọc tốt nhất từ trà hữu cơ, sau đó sẽ được bọn mình tạo thêm hương vị bằng trái cây tương và gia vị thảo mộc. Hãy nhắn tin cho bọn mình để biết hương vị bọn mình đang có là loại nào nhé :)
@@ -139,7 +141,7 @@ sections:
         price: 90k-120k / 250g
         title:
           en: granola (various)
-          vi: ngũ cốc hạt dinh dưỡng nướng
+          vi: ngũ cốc nướng
         description:
           en: each batch of our crispy, crunchy, clustery granola we make is crafted by hand with the finest ingredients. We never use refined sugar or preservatives, and make every batch right when you ask for it. Try our maple pecan, vegan chocolate and sea salt, or custom order today!
           vi: granola được bọn mình làm thủ công với chất lượng tốt nhất tại căn bếp nhỏ. Bọn mình không làm hàng loạt để giữ được chất lượng mỗi mẻ đều ngon, giòn, và thơm. Bọn mình nói không với đường tinh luyện, chất bảo quản hay bất kỳ thành phần nào không tốt cho sức khỏe, mỗi đơn hàng các bạn đặt sẽ đc làm mới hoàn toàn. Hãy thử 2 loại granola bán chạy nhất của bọn mình là Siro lá phong hồ đào và Sô cô la muối biển thuần chay.
@@ -147,7 +149,7 @@ sections:
         price: 100k-120k / lit
         title:
           en: cashew milk (various)
-          vi: sữa điều (nhiều vị khác nhau)
+          vi: sữa điều
         description:
           en: our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies. Ask us for the flavors of the day :)
           vi: sữa điều nhà làm của bọn mình luôn tươi mới, sữa được tạo ngọt từ quả chà là. Sữa được tạo thêm hương vị từ rau củ quả tươi. Nhắn tin cho bọn mình để biết hương vị của ngày hôm nay
