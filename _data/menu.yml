@@ -1,64 +1,153 @@
+title:
+  en: our menu
+  vi: thực đơn của bọn mình
+
 sections:
   pancakes:
-    title: pancakes
+    title:
+      en: pancakes
+      vi: bánh kếp
     items:
-      blueberry:
+      blueberry: 
         price: 110k
-        title: blueberry
-        description: whole wheat pancakes stuffed with blueberries and maple syrup on the side
+        title:
+          en: blueberry
+          vi: việt quất
+        description:
+          en: whole wheat pancakes stuffed with blueberries and maple syrup on the side
+          vi: bánh kếp bột nguyên cám với nhân Việt Quất ăn kèm siro cây lá phong hữu cơ
       pecan:
         price: 130k
-        title: butter pecan
-        description: buttery whole wheat pancakes filled with pecans and smothered with butter, with maple syrup on the side
+        title:
+          en: butter pecan
+          vi: bơ hồ đào
+        description:
+          en: buttery whole wheat pancakes filled with pecans and smothered with butter, with maple syrup on the side
+          vi: bánh kếp thơm bơ với nhân hồ đào béo ngậy, ăn cùng siro cây lá phong hữu cơ
       choose:
         price: 60k
-        title: create your own
-        description: choose your flour (white or whole wheat), toppings (seasonal fresh fruit, homemade jam, honey), and extras like maple syrup (+40k), melted butter (+10k), peanut butter (+15k)
+        title: 
+          en: create your own
+          vi: bánh kếp tự chọn
+        description:
+          en: choose your flour (white or whole wheat), toppings (seasonal fresh fruit, homemade jam, honey), and extras like maple syrup (+40k), melted butter (+10k), peanut butter (+15k)
+          vi: chọn loại bột bạn thích (bột mì hoặc bột mì nguyên cám), đồ ăn kèm (trái cây tươi theo mùa, mứt trái cây nhà làm, mật ong), và thêm siro cây lá phong (+40k), bơ thêm (+10k), bơ đậu phộng (+15k)
   smoothies:
-    title: smoothies
+    title:
+      en: smoothies
+      vi: sinh tố
     items:
       greenMachine:
         price: 95k
-        title: green machine
-        description: kale picked from our own garden, juicy sweet pineapple, extra ripe bananas, greek yogurt, homemade cashew milk with dates, and a touch of homemade peanut butter
+        title:
+          en: green machine
+          vi: cỗ máy xanh lá
+        description:
+          en: kale picked from our own garden, juicy sweet pineapple, extra ripe bananas, greek yogurt, homemade cashew milk with dates, and a touch of homemade peanut butter
+          vi: rau cải xoăn được trồng tại vườn của bọn mình, thơm chín ngọt, thêm 1 chút chuối chín, sữa chua Hi Lạp, sữa hạt điều chà là cùng một chút giao lưu với món bơ đậu phộng tự làm.
       mangoBanana:
         price: 85k
-        title: mango banana
-        description: extra ripe mango and banana, greek yogurt, homemade cashew milk with dates, fennel seed, cinnamon, and chia seeds
+        title:
+          en: mango banana
+          vi: xoài chuối
+        description:
+          en: extra ripe mango and banana, greek yogurt, homemade cashew milk with dates, fennel seed, cinnamon, and chia seeds
+          vi: xoài và chuối chín kĩ, sữa chua Hi Lạp, sữa hạt điều chà là nhà làm, hạt tiểu hồi, quế, và hạt chia
       advocadoCreamDream:
         price: 105k
-        title: avocado cream dream
-        description: creamy avocado, extra ripe banana, kale picked from our own garden, greek yogurt, homemade cashew milk with dates
+        title:
+          en: avocado cream dream
+          vi: giấc mơ kem bơ
+        description:
+          en: creamy avocado, extra ripe banana, kale picked from our own garden, greek yogurt, homemade cashew milk with dates
+          vi: bơ sáp, chuối chín kĩ, rau cải xoăn từ vườn bọn mình trồng, sữa chua Hi Lạp, sữa điều chà là nhà làm.
       choconana:
         price: 90k
-        title: choconana
-        description: double extra ripe banana, cacao, greek yogurt, homemade cashew milk with dates, and homemade peanut butter
+        title:
+          en: choconana
+          vi: choconana
+        description:
+          en: double extra ripe banana, cacao, greek yogurt, homemade cashew milk with dates, and homemade peanut butter
+          vi: chuối chín quốc, ca cao, sữa chua Hi Lạp, sữa hạt điều chà là, và bơ đậu phộng nhà làm
       pineappleCoconut:
         price: 90k
-        title: pineapple coconut
-        description: juicy sweet pineapple, a freshly-cracked coconut with the meat and water, an extra ripe banana
+        title:
+          en: pineapple coconut
+          vi: dừa thơm
+        description:
+          en: juicy sweet pineapple, a freshly-cracked coconut with the meat and water, an extra ripe banana
+          vi: thơm chín ngọt, dừa chặt nguyên trái cả nước và cùi, chuối chín quốc
   kombucha:
-    title: kombucha
+    title:
+      en: kombucha
+      vi: Trà lên men Komnbucha
     items:
       various:
         price: 60k
-        title: rotating flavors
-        description: We brew our kombucha by hand, in small, separate batches. Then we flavor it with any number of all-natural, fresh ingredients. We are always experimenting so our flavors are always changing!
+        title:
+          en: rotating flavors
+          vi: hương vị thay đổi luân phiên
+        description:
+          en: each batch of our kombucha we make is crafted by hand, in small, separate batches. We start with the highest-quality, organic tea ingredients, and then we flavor it with any number of all-natural, fresh fruits and herbs. Ask us for the flavors of the day :)
+          vi: mỗi mẻ trà lên men của bọn mình đều được làm thủ công, công đoạn nhỏ không làm số lượng nhiều. Mỗi mẻ đều được làm riêng biệt. Nguyên liệu được chọn lọc tốt nhất từ trà hữu cơ, sau đó sẽ được bọn mình tạo thêm hương vị bằng trái cây tương và gia vị thảo mộc. Hãy nhắn tin cho bọn mình để biết hương vị bọn mình đang có là loại nào nhé :)
   cashewMilk:
-    title: cashew milk
+    title:
+      en: cashew milk
+      vi: sữa hạt điều
     items:
       various:
         price: 40k
-        title: rotating flavors
-        description: Our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies. Ask us for the flavors of the day :)
+        title:
+          en: rotating flavors
+          vi: hương vị thay đổi luân phiên
+        description:
+          en: our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies. Ask us for the flavors of the day :)
+          vi: sữa điều nhà làm của bọn mình luôn tươi mới, sữa được tạo ngọt từ quả chà là. Sữa được tạo thêm hương vị từ rau củ quả tươi. Nhắn tin cho bọn mình để biết hương vị của ngày hôm nay 
   bowls:
     title: bowls
     items:
       twoFoxesSpecial:
         price: 85k
-        title: two foxes special
-        description: greek yogurt mixed with our homemade dragonfruit chia jam, topped with freshly frozen seasonal fruit, nuts, and maple syrup
+        title:
+          en: two foxes special
+          vi: món đặc biệt của nhà Cáo
+        description:
+          en: greek yogurt mixed with our homemade dragonfruit chia jam, topped with freshly frozen seasonal fruit, nuts, and maple syrup
+          vi: sữa chua Hi Lạp trộn chung với mứt thanh long đỏ hạt chia, điểm thêm là trái cây lạnh theo mùa, hạt dinh dưỡng, và siro lá phong
       granolaBowl:
         price: 95k
-        title: granola bowl
-        description: homemade toasted granola, topped with fresh seasonal fruit, with homemade cashew milk for pouring
+        title:
+          en: granola bowl
+          vi: bát ngũ cốc hạt nướng
+        description:
+          en: homemade toasted granola, topped with fresh seasonal fruit, with homemade cashew milk for pouring
+          vi: granola nhà nướng, topping là trái cây tươi theo mùa , ăn kèm với sữa hạt điều 
+  ship:
+    title:
+      en: made to order / delivery
+      vi: đặt món / Giao hàng
+    items:
+      kombucha:
+        price: 150k-170k / lit
+        title:
+          en: kombucha (various)
+          vi: trà lên men (nhiều loại)
+        description:
+          en: each batch of our kombucha we make is crafted by hand, in small, separate batches. We start with the highest-quality, organic tea ingredients, and then we flavor it with any number of all-natural, fresh fruits and herbs. Ask us for the flavors of the day :)
+          vi: mỗi mẻ trà lên men của bọn mình đều được làm thủ công, công đoạn nhỏ không làm số lượng nhiều. Mỗi mẻ đều được làm riêng biệt. Nguyên liệu được chọn lọc tốt nhất từ trà hữu cơ, sau đó sẽ được bọn mình tạo thêm hương vị bằng trái cây tương và gia vị thảo mộc. Hãy nhắn tin cho bọn mình để biết hương vị bọn mình đang có là loại nào nhé :)
+      granola:
+        price: 90k-120k / 250g
+        title:
+          en: granola (various)
+          vi: ngũ cốc hạt dinh dưỡng nướng
+        description:
+          en: each batch of our crispy, crunchy, clustery granola we make is crafted by hand with the finest ingredients. We never use refined sugar or preservatives, and make every batch right when you ask for it. Try our maple pecan, vegan chocolate and sea salt, or custom order today!
+          vi: granola được bọn mình làm thủ công với chất lượng tốt nhất tại căn bếp nhỏ. Bọn mình không làm hàng loạt để giữ được chất lượng mỗi mẻ đều ngon, giòn, và thơm. Bọn mình nói không với đường tinh luyện, chất bảo quản hay bất kỳ thành phần nào không tốt cho sức khỏe, mỗi đơn hàng các bạn đặt sẽ đc làm mới hoàn toàn. Hãy thử 2 loại granola bán chạy nhất của bọn mình là Siro lá phong hồ đào và Sô cô la muối biển thuần chay.
+      cashewMilk:
+        price: 100k-120k / lit
+        title:
+          en: cashew milk (various)
+          vi: sữa điều (nhiều vị khác nhau)
+        description:
+          en: our freshly-made cashew milk is naturally sweetened with dates, and optionally flavored with fresh fruits or veggies. Ask us for the flavors of the day :)
+          vi: sữa điều nhà làm của bọn mình luôn tươi mới, sữa được tạo ngọt từ quả chà là. Sữa được tạo thêm hương vị từ rau củ quả tươi. Nhắn tin cho bọn mình để biết hương vị của ngày hôm nay

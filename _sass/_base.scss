@@ -370,6 +370,20 @@ header {
 	margin-top: -36px;
 }
 
+#restaurant-menu .languages {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin: 10px;
+    a {
+        font-weight: 400;
+        font-size: 32px;
+    }
+}
+
 // Contact
 #contact .fa, .fab {
     border-radius: 50%;
